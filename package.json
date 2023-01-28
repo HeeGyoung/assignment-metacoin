@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "truffle": "^5.7.4",
+    "web3": "^1.8.1"
+  }
+}
